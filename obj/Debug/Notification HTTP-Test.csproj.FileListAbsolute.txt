@@ -1,0 +1,10 @@
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\bin\Debug\Notification HTTP-Test.exe.config
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\bin\Debug\Notification HTTP-Test.exe
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\bin\Debug\Notification HTTP-Test.pdb
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification HTTP-Test.csprojAssemblyReference.cache
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification_HTTP_Test.Form1.resources
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification_HTTP_Test.Properties.Resources.resources
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification HTTP-Test.csproj.GenerateResource.cache
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification HTTP-Test.csproj.CoreCompileInputs.cache
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification HTTP-Test.exe
+C:\Users\dinhqu\source\repos\Notification HTTP-Test\obj\Debug\Notification HTTP-Test.pdb
